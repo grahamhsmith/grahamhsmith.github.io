@@ -10,6 +10,13 @@ body{
   margin-bottom: 50px;
 }
 
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .exp-header{
   text-transform: uppercase;
   text-align: center;
